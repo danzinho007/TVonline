@@ -1,4 +1,9 @@
-TV Online :
+﻿TV Online :
+
+https://www.cxtv.com.br/
+online
+https://futebolrei.com/canais/
+Offline
 
 Séries :
 https://meuguia.tv/programacao/categoria/Series
@@ -7,7 +12,7 @@ Asahi
 https://www.tv-asahi.co.jp/bangumi/
 Combate
 https://canaisglobo.globo.com/programacao/combate/3180444/
-Esprotes 
+Esportes 
 https://tvonlinehd.app/category/esportes-ao-vivo-online/
 Gloob 
 https://megatvonline.biz/gloob-ao-vivo/
@@ -19,3 +24,4 @@ Universal Channel = Séries
 https://megatvonline.biz/universal-channel-ao-vivo/
 Warner Channel = Séries
 https://megatvonline.biz/assistir-warner-channel-ao-vivo-online-gratis/
+
